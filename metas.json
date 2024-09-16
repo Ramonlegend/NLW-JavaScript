@@ -1,30 +1,14 @@
 [
   {
-    "value": "Tomar 3L de água por dia",
+    "value": "ser o melhor no que faço",
     "checked": false
   },
   {
-    "value": "Andar 20 minutos todos os dias",
+    "value": "ter mais calma",
     "checked": false
   },
   {
-    "value": "Meditar 5 minutos todos os dias",
-    "checked": true
-  },
-  {
-    "value": "Ler por 15 minutos",
-    "checked": true
-  },
-  {
-    "value": "xingar o professor",
-    "checked": true
-  },
-  {
-    "value": "aprender React",
-    "checked": false
-  },
-  {
-    "value": "toma agua",
+    "value": "ser o cara",
     "checked": false
   }
 ]
