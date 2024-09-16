@@ -13,6 +13,18 @@
   },
   {
     "value": "Ler por 15 minutos",
+    "checked": true
+  },
+  {
+    "value": "xingar o professor",
+    "checked": true
+  },
+  {
+    "value": "aprender React",
+    "checked": false
+  },
+  {
+    "value": "toma agua",
     "checked": false
   }
 ]

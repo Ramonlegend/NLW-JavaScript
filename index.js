@@ -165,6 +165,10 @@ const start = async () => {
           value: 'abertas',
         },
         {
+          name: 'Deletar meta',
+          value: 'deletar',
+        },
+        {
           name: 'Sair',
           value: 'sair',
         },
